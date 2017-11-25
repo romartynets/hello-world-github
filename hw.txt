@@ -1,70 +1,9 @@
-1.git clone https://github.com/romartynets/repo.git
-cd repo
-git checkout -b architecture
-touch index.html
-mkdir assets uploads
-git add .
-git commit -m 'sdas'
-touch assets/all.js assets/css.js uploads/1.html
-git add .
-git commit -m'sdad'
-git push origin architecture
-vim .gitignore
-git add .
-git commit -m'ingnore uploads'
-git push origin architecture
-git checkout master
-git merge architecture
-git push
-git branch -d architecture
-git push origin :architecture 
+Lorem ipsum dolor sit amet, te sale detracto constituam nam. Tantas scripta voluptua nec te, id pro alii mucius fabellas. Ut oporteat disputationi his, ex eam labore probatus, pri et modo suscipit. Quot aperiam vivendo vix an, ferri ignota ex mea. Mea at lorem lobortis accusamus.
 
-2.
-git checkout -b nb
-git checkout master
-touch nb.txt
-git commit -m'new file'
-git checkout nb
-git rebase master
-git commit -m'sdsd'
-git merge master
-git checkout master 
-git branch -d nb
-git push origin :nb
+Eum at possit erroribus, suas vidit error nam et. Vix solum iriure no, summo zril sit ea, ad porro mandamus cotidieque eum. Ei vix affert laoreet, nihil qualisque mnesarchum sed ad. Facete deseruisse pri ad, in sed alia saepe appareat, ut per simul graece tibique.
 
-3.git commit -m 'dfasf'
-git tag nt
-git add .
-git commit m'sdads'
-git push origin master
+Ferri viris bonorum duo ut, essent numquam sadipscing eu sit. His ex persecuti liberavisse. Vis legendos repudiare at, sed prompta assentior concludaturque ut. Ad soluta malorum his. Eu est quod atqui habemus, ocurreret constituam cu sit.
 
-4. git submodule add https://github.com/romartynets/repo/DbConnector
-git add .
-git commit -m 'new submodule'
-git push origin master
+Amet vero aperiam ei eum, animal discere has id. Solum causae indoctum duo ad, an his alia salutatus, vel ex diam fierent. Hinc vero primis quo ad, dolorem lucilius ei per. Admodum dolores consetetur cu sit, vel eu posse exerci vituperata, cu vel persius laboramus. Adipisci concludaturque eum at, ponderum laboramus eu nec, ne mei noluisse torquatos.
 
-5.
-git checkout -b gh-pages
-touch index.html
-vim index.html   :wq
-git add .
-git commit -m'new index.html'
-git push origin gh-pages
-echo 'sdasdsd' > index.html
-git hash-object -w index.html
-git commit -m'new text'
-git push origin gh-pages
-
-6.
-vim file.txt
-git checkout -b nw
-vim file.txt
-git checkout master
-git merge nw
-git merge --abort
-add .
-git comit -m'wsad'
-git push origin master
-
-
- 
+Harum homero epicurei id qui, nec ei timeam luptatum, lorem timeam quo ne. No sea facilisi disputationi, malis recusabo sit cu, complectitur conclusionemque sed id. Te eum legimus noluisse sapientem, dicta recteque ex eam. Mea tale errem postea ne, ea sea posse mnesarchum moderatius. Id lucilius maiestatis reprehendunt vis, ne eros adhuc molestiae quo. Per eu legendos indoctum vulputate, sonet iuvaret indoctum eos ad. Ad mea assum iuvaret laboramus.
